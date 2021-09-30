@@ -19,6 +19,7 @@ NLP https://www.kaggle.com/learn/natural-language-processing
 
 ## Roadmap:
 Diagram to show all possible concepts: https://github.com/DataScienceResearchPeru/nlp-roadmap
+
 https://www-techrepublic-com.cdn.ampproject.org/v/s/www.techrepublic.com/google-amp/article/natural-language-processing-a-cheat-sheet/?usqp=mq331AQFKAGwASA%3D&amp_js_v=0.1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.techrepublic.com%2Farticle%2Fnatural-language-processing-a-cheat-sheet%2F
 
 https://towardsdatascience.com/understanding-nlp-how-ai-understands-our-languages-77601002cffc History NLP
