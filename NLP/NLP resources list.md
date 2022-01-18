@@ -96,10 +96,20 @@ https://thenextweb.com/news/practical-natural-language-processing-a-must-read-fo
 https://www.microsoft.com/en-us/research/blog/five-ways-your-academic-research-skills-transfer-to-industry/?OCID=msr_blog_5ways_ig
 
 Sentiment analysis https://towardsdatascience.com/real-time-sentiment-analysis-on-social-media-with-open-source-tools-f864ca239afe
+
+
 Indian NLP libraries https://www.analyticsvidhya.com/blog/2020/01/3-important-nlp-libraries-indian-languages-python/
+
+
 Archives Google AI blog https://ai.googleblog.com/search/label/Natural%20Language%20Processing
+
+
 https://www.depends-on-the-definition.com/how-to-approach-nlp/#summary nice blog
+
+
 https://www.portent.com/blog/content/essay-natural-language-processing-impact-writers-content-digital-marketing.htm
+
+
 coding practices https://neptune.ai/blog/how-to-structure-and-manage-nlp-projects-templates?utm_source=reddit&utm_medium=post&utm_campaign=blog-how-to-structure-and-manage-nlp-projects-templates&utm_content=languagetechnology
 
 
